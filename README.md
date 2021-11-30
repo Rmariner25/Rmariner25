@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rmariner25
-- 👀 I’m interested in web development and cyber security enthusiast
+- 👀 I’m interested in web development and I am a cyber security enthusiast
 - 🌱 I’m currently only exploring python
 
 <!---
